@@ -3,5 +3,5 @@ all:
 	gcc ./prob.c -o ./prob
 
 clean:
-	rm ./prob
+	rm -f ./prob
 
