@@ -1,0 +1,7 @@
+Case 1, Position 1: Children seen: 2
+Case 1, Position 2: Children seen: 3
+
+Case 2, Position 1: Children seen: 1
+Case 2, Position 2: Children seen: 2
+Case 2, Position 3: Children seen: 1
+
